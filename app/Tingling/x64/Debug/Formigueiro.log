@@ -1,0 +1,16 @@
+﻿  Ninhos.cpp
+c:\users\jhssi\google drive\universidade\2 ano\1 semestre\poo\2017  2018\trabalho prático\formigueiro\formigueiro\ninhos.cpp(82): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\jhssi\google drive\universidade\2 ano\1 semestre\poo\2017  2018\trabalho prático\formigueiro\formigueiro\ninhos.cpp(118): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\jhssi\google drive\universidade\2 ano\1 semestre\poo\2017  2018\trabalho prático\formigueiro\formigueiro\ninhos.cpp(324): warning C4018: '<': signed/unsigned mismatch
+c:\users\jhssi\google drive\universidade\2 ano\1 semestre\poo\2017  2018\trabalho prático\formigueiro\formigueiro\ninhos.cpp(325): warning C4018: '<': signed/unsigned mismatch
+c:\users\jhssi\google drive\universidade\2 ano\1 semestre\poo\2017  2018\trabalho prático\formigueiro\formigueiro\ninhos.cpp(331): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\jhssi\google drive\universidade\2 ano\1 semestre\poo\2017  2018\trabalho prático\formigueiro\formigueiro\ninhos.cpp(584): warning C4018: '<': signed/unsigned mismatch
+c:\users\jhssi\google drive\universidade\2 ano\1 semestre\poo\2017  2018\trabalho prático\formigueiro\formigueiro\ninhos.cpp(585): warning C4018: '<': signed/unsigned mismatch
+c:\users\jhssi\google drive\universidade\2 ano\1 semestre\poo\2017  2018\trabalho prático\formigueiro\formigueiro\ninhos.cpp(591): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\jhssi\google drive\universidade\2 ano\1 semestre\poo\2017  2018\trabalho prático\formigueiro\formigueiro\ninhos.cpp(851): warning C4018: '<': signed/unsigned mismatch
+c:\users\jhssi\google drive\universidade\2 ano\1 semestre\poo\2017  2018\trabalho prático\formigueiro\formigueiro\ninhos.cpp(852): warning C4018: '<': signed/unsigned mismatch
+c:\users\jhssi\google drive\universidade\2 ano\1 semestre\poo\2017  2018\trabalho prático\formigueiro\formigueiro\ninhos.cpp(854): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\jhssi\google drive\universidade\2 ano\1 semestre\poo\2017  2018\trabalho prático\formigueiro\formigueiro\ninhos.cpp(855): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\jhssi\google drive\universidade\2 ano\1 semestre\poo\2017  2018\trabalho prático\formigueiro\formigueiro\ninhos.cpp(858): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Formigueiro.vcxproj -> C:\Users\jhssi\Google Drive\Universidade\2 ano\1 semestre\POO\2017  2018\Trabalho Prático\Formigueiro\x64\Debug\Formigueiro.exe
+  Formigueiro.vcxproj -> C:\Users\jhssi\Google Drive\Universidade\2 ano\1 semestre\POO\2017  2018\Trabalho Prático\Formigueiro\x64\Debug\Formigueiro.pdb (Partial PDB)
